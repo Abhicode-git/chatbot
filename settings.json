@@ -1,152 +1,35 @@
 {
-  "welcomeMessage": "Welcome to Echo Mind - College Info",
+  "welcomeMessage": "Welcome to SNJB COE Assistant! I'm here to help you with anything related to the college. Ask about admissions, departments, placements, campus life, or more.",
+  "greetings": {
+    "hi": "Hello! 👋 How can I assist you today about SNJB College of Engineering?",
+    "hello": "Hi there! 😊 Need any information related to SNJB COE?",
+    "hey": "Hey! Ask me anything about the college, from courses to placements.",
+    "good morning": "Good morning! 🌅 Ready to explore what SNJB COE offers?",
+    "good evening": "Good evening! 🌇 Feel free to ask about academics, clubs, or anything else."
+  },
   "suggestedTopics": [
     "Admissions",
+    "Programs",
     "Departments",
     "Placements",
     "Facilities",
+    "Hostel",
     "Vision",
     "Clubs",
     "Achievements",
-    "Programs",
-    "Hostel",
     "Contact"
   ],
   "topicsInfo": {
-    "admissions": "Admissions are conducted via DTE Maharashtra CAP. For first-year, eligibility is 12th Science PCM with MHT-CET or JEE. For direct second year, diploma with 45% (general) or 40% (reserved) is required.",
-    "departments": "SNJB COE has departments like Civil, Computer, Mechanical, E&TC, AI & Data Science, and MBA, each headed by experienced faculty.",
-    "placements": "The Placement Cell invites recruiters like TCS, Infosys, and Wipro. The highest package is ₹10 LPA, average is ₹3.2 LPA.",
-    "facilities": "Facilities include Smart Classrooms, Labs, Library, Auditorium, WiFi, Hostel, Canteen, ATM, Gym, Medical, Transport, and Sports Complex.",
-    "vision": "To transform young learners through quality education focused on creativity and professionalism for societal growth.",
-    "clubs": "Students can join clubs like Coding Club, Robotics Club, Entrepreneurship Cell, NSS, and Cultural Club.",
-    "achievements": "Recognized with NAAC A+ (2023), NBA Accreditation, Best Rural Engineering College Award, and AICTE-CII Innovation Award.",
-    "programs": "UG Programs: Civil, Computer, Mechanical, E&TC, AI & DS. PG: MBA and M.Tech (Comp Engg). First Year is common.",
-    "hostel": "Separate hostels for boys and girls, with Wi-Fi, mess, 24/7 security, medical support, and gym facilities.",
-    "contact": "Phone: +91-2556-253750, Email: principalcoe@snjb.org, Website: https://www.snjb.org/engineering/Home"
+    "admissions": "Admissions at SNJB COE are through DTE Maharashtra CAP. 1st year requires 12th Science PCM + MHT-CET/JEE. Direct 2nd year needs Diploma with 45% (General) or 40% (Reserved).",
+    "programs": "UG: Civil, Computer, Mechanical, E&TC, AI & DS. PG: MBA, M.Tech (Computer Engg). First year is common.",
+    "departments": "Departments include Civil, Computer, Mechanical, E&TC, AI & DS, and MBA, each led by experienced faculty.",
+    "placements": "Top recruiters: TCS, Infosys, Wipro. Highest package: ₹10 LPA. Average: ₹3.2 LPA. Includes training, internships, and mock interviews.",
+    "facilities": "Smart classrooms, labs, library, auditorium, hostel, WiFi, canteen, ATM, gym, medical, transport, and sports complex.",
+    "hostel": "Separate hostels for boys & girls with mess, Wi-Fi, 24/7 security, medical facilities, gym, and clean rooms.",
+    "vision": "To transform learners through quality technical education for creativity, professionalism, and societal growth.",
+    "clubs": "Join Coding Club, Robotics Club, Entrepreneurship Cell, NSS, Cultural Club, and Sustainability Cell.",
+    "achievements": "NAAC A+ (2023), NBA Accreditation, Best Rural Engineering College, AICTE-CII Innovation Award.",
+    "contact": "📞 +91-2556-253750, ✉️ principalcoe@snjb.org, 🌐 https://www.snjb.org/engineering/Home"
   },
-  "basic_info": {
-    "name": "SNJB's Late Sau. K. B. Jain College of Engineering, Chandwad",
-    "alias": "SNJB COE",
-    "established": 2004,
-    "type": "Private; Jain-minority; non-autonomous",
-    "campus": "Rural",
-    "address": {
-      "full": "Neminagar, Chandwad, Nashik, Maharashtra, India",
-      "postal_code": "423101"
-    },
-    "contact": {
-      "phone": "+91-2556-253750",
-      "email": "principalcoe@snjb.org",
-      "website": "https://www.snjb.org/engineering/Home"
-    }
-  },
-  "affiliations_and_accreditations": {
-    "university": "Savitribai Phule Pune University",
-    "approvals": ["AICTE", "DTE Maharashtra"],
-    "accreditations": {
-      "NAAC": "A+",
-      "NBA": [
-        "Civil Engineering",
-        "Computer Engineering",
-        "Mechanical Engineering",
-        "E&TC Engineering",
-        "MBA"
-      ]
-    }
-  },
-  "leadership": {
-    "principal": "M. D. Kokate",
-    "dean_academics": "Dr. X Y Z",
-    "admin_head": "Shri ABC Jain"
-  },
-  "vision_mission": {
-    "vision": "Transform young aspirant learners towards creativity and professionalism for societal growth through quality technical education.",
-    "mission": [
-      "Transfer suitable technology, particularly for rural development.",
-      "Enhance diverse career opportunities among students.",
-      "Bridge gap between industry and academics.",
-      "Encourage value-based education and professional ethics."
-    ]
-  },
-  "programs_offered": {
-    "undergraduate": [
-      "Civil Engineering",
-      "Computer Engineering",
-      "Mechanical Engineering",
-      "Electronics & Telecommunication Engineering",
-      "Artificial Intelligence & Data Science"
-    ],
-    "postgraduate": ["MBA", "M.Tech (Computer Engineering)"],
-    "first_year_common": true
-  },
-  "departments": [
-    { "name": "Civil Engineering", "hod": "Dr. A Sharma" },
-    { "name": "Computer Engineering", "hod": "Prof. B Patil" },
-    { "name": "Mechanical Engineering", "hod": "Dr. C Pawar" },
-    { "name": "E&TC Engineering", "hod": "Prof. D Jadhav" },
-    { "name": "AI & Data Science", "hod": "Prof. E More" },
-    { "name": "MBA", "hod": "Dr. F Desai" }
-  ],
-  "admissions": {
-    "first_year": {
-      "mode": "DTE Maharashtra CAP",
-      "eligibility": "12th Science PCM + MHT-CET/JEE"
-    },
-    "direct_second_year": {
-      "mode": "DTE Maharashtra",
-      "eligibility": {
-        "general_category": "Diploma with 45%",
-        "reserved_category": "Diploma with 40%"
-      }
-    }
-  },
-  "facilities": [
-    "Modern Classrooms",
-    "Laboratories",
-    "Auditorium",
-    "Library",
-    "WiFi",
-    "Hostels",
-    "Canteen",
-    "ATM",
-    "Gym",
-    "Medical",
-    "Transport",
-    "Sports Complex"
-  ],
-  "student_support": {
-    "cells": [
-      "Anti-Ragging",
-      "Grievance Redressal",
-      "Sustainability Cell",
-      "Startup Cell",
-      "Equal Opportunity",
-      "SC/ST Cell",
-      "Women Empowerment"
-    ],
-    "clubs": [
-      "Coding Club",
-      "Robotics Club",
-      "Entrepreneurship Cell",
-      "NSS",
-      "Cultural Club"
-    ]
-  },
-  "placements": {
-    "has_placement_cell": true,
-    "recent_recruiters": ["TCS", "Infosys", "Wipro", "Cognizant"],
-    "highest_package_lpa": 10,
-    "average_package_lpa": 3.2
-  },
-  "achievements": [
-    "NAAC A+ Grade (2023)",
-    "NBA Accredited Departments",
-    "Best Rural Engineering College Award",
-    "AICTE-CII Survey Award for Innovation"
-  ],
-  "portals_and_links": {
-    "erp_portal": "https://erp.snjb.org",
-    "student_portal": "https://students.snjb.org",
-    "alumni_portal": "https://alumni.snjb.org"
-  }
+  "defaultResponse": "Sorry, I didn't understand that. Try asking about admissions, placements, programs, hostel, or contact info."
 }
