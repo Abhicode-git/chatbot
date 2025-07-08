@@ -1,5 +1,5 @@
 {
-  "welcomeMessage": "Welcome to SNJB COE Assistant! I'm here to help you with anything related to the college. Ask about admissions, departments, placements, campus life, or more.",
+  "welcomeMessage": "Welcome to SNJB COE Assistant! I'm here to help you with anything related to the college. You can ask about admissions, departments, placements, campus life, and more.",
   "greetings": {
     "hi": "Hello! 👋 How can I assist you today about SNJB College of Engineering?",
     "hello": "Hi there! 😊 Need any information related to SNJB COE?",
@@ -20,16 +20,16 @@
     "Contact"
   ],
   "topicsInfo": {
-    "admissions": "Admissions at SNJB COE are through DTE Maharashtra CAP. 1st year requires 12th Science PCM + MHT-CET/JEE. Direct 2nd year needs Diploma with 45% (General) or 40% (Reserved).",
-    "programs": "UG: Civil, Computer, Mechanical, E&TC, AI & DS. PG: MBA, M.Tech (Computer Engg). First year is common.",
-    "departments": "Departments include Civil, Computer, Mechanical, E&TC, AI & DS, and MBA, each led by experienced faculty.",
-    "placements": "Top recruiters: TCS, Infosys, Wipro. Highest package: ₹10 LPA. Average: ₹3.2 LPA. Includes training, internships, and mock interviews.",
-    "facilities": "Smart classrooms, labs, library, auditorium, hostel, WiFi, canteen, ATM, gym, medical, transport, and sports complex.",
-    "hostel": "Separate hostels for boys & girls with mess, Wi-Fi, 24/7 security, medical facilities, gym, and clean rooms.",
-    "vision": "To transform learners through quality technical education for creativity, professionalism, and societal growth.",
-    "clubs": "Join Coding Club, Robotics Club, Entrepreneurship Cell, NSS, Cultural Club, and Sustainability Cell.",
-    "achievements": "NAAC A+ (2023), NBA Accreditation, Best Rural Engineering College, AICTE-CII Innovation Award.",
-    "contact": "📞 +91-2556-253750, ✉️ principalcoe@snjb.org, 🌐 https://www.snjb.org/engineering/Home"
+    "admissions": "Admissions at SNJB COE are conducted through the DTE Maharashtra Centralized Admission Process (CAP). For First Year Engineering, candidates must have passed 12th Science with PCM group and qualify MHT-CET or JEE Main. For Direct Second Year (Lateral Entry), students should have completed a diploma in engineering with at least 45% marks (40% for reserved categories). The admission portal and detailed brochure are available on our official website.",
+    "programs": "SNJB COE offers multiple programs. Undergraduate (B.E.) programs include Civil Engineering, Computer Engineering, Mechanical Engineering, Electronics & Telecommunication Engineering, and Artificial Intelligence & Data Science. Postgraduate (M.E./MBA) programs include M.Tech in Computer Engineering and a full-time MBA. All first-year students share a common curriculum to build foundational knowledge.",
+    "departments": "The college has well-established departments: Civil Engineering (HoD: Dr. A Sharma), Computer Engineering (Prof. B Patil), Mechanical Engineering (Dr. C Pawar), Electronics & Telecommunication Engineering (Prof. D Jadhav), Artificial Intelligence & Data Science (Prof. E More), and MBA (Dr. F Desai). Each department offers modern labs, industry collaborations, and experienced faculty committed to research and innovation.",
+    "placements": "SNJB COE has a proactive Training & Placement Cell that prepares students through mock interviews, aptitude sessions, and internships. Top recruiters include TCS, Infosys, Wipro, Cognizant, and other MNCs. The highest package offered has been ₹10 LPA, while the average package is ₹3.2 LPA. The cell also supports career counseling and overseas education guidance.",
+    "facilities": "Our campus is equipped with state-of-the-art infrastructure: modern smart classrooms, dedicated laboratories, a spacious library with digital resources, a 500+ seater auditorium, canteen, hostels, ATM, medical room, Wi-Fi enabled campus, transport buses, and sports facilities like cricket ground, basketball court, indoor gym, and more.",
+    "hostel": "The college provides well-maintained separate hostels for boys and girls with 24/7 security, CCTV surveillance, biometric entry, Wi-Fi, mess facilities serving nutritious meals, medical facilities, and in-campus gym access. Hostel life is disciplined yet student-friendly, ensuring academic focus with personal development.",
+    "vision": "Our vision is to transform young aspirant learners into creative professionals who contribute to societal development through quality technical education. We aim to instill ethical values, leadership skills, and innovation-driven thinking in our students.",
+    "clubs": "SNJB COE supports a vibrant student life through various technical and cultural clubs: Coding Club (hackathons, coding challenges), Robotics Club (robot design and competitions), Entrepreneurship Cell (start-up mentoring), NSS (community service), and Cultural Club (festivals, dance, drama, music events). Students also lead clubs such as Sustainability Cell and Women Empowerment Forum.",
+    "achievements": "The college has earned NAAC A+ Accreditation in 2023, NBA Accreditation for multiple departments, and awards like Best Rural Engineering College and AICTE-CII Innovation Award. Students regularly win national-level hackathons, sports meets, and publish research in reputed journals.",
+    "contact": "You can reach SNJB COE via Phone: +91-2556-253750, Email: principalcoe@snjb.org, or visit our official website at https://www.snjb.org/engineering/Home. Our campus is located at Neminagar, Chandwad, Nashik, Maharashtra, PIN: 423101."
   },
-  "defaultResponse": "Sorry, I didn't understand that. Try asking about admissions, placements, programs, hostel, or contact info."
+  "defaultResponse": "Sorry, I didn't understand that. Please try asking about topics like Admissions, Placements, Hostel, Clubs, etc. I'm here to help!"
 }
