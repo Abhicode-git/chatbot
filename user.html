@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Echo Mind - Chat</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background: linear-gradient(to bottom right, #e0c3fc, #8ec5fc);
+      color: #4b4b4b;
+    }
+    .glass {
+      background: rgba(255, 255, 255, 0.2);
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      backdrop-filter: blur(14px);
+    }
+    .chat-footer input {
+      background: rgba(255, 255, 255, 0.3);
+      border: 1px solid rgba(255, 255, 255, 0.4);
+      border-radius: 9999px;
+      padding: 0.75rem 1.25rem;
+      color: #4b4b4b;
+      width: 100%;
+      outline: none;
+    }
+    .chat-footer button {
+      background: rgba(155, 89, 182, 0.2);
+      border-radius: 9999px;
+      padding: 0.6rem;
+      transition: 0.3s;
+    }
+    .chat-footer button:hover {
+      background: #9b59b6;
+    }
+    .topic-button {
+      background-color: rgba(109, 92, 240, 0.3);
+      color: white;
+    }
+    .topic-button:hover {
+      background-color: #5754c2;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col">
+
+  <!-- Navbar -->
+  <nav class="glass flex justify-between items-center px-4 py-4 fixed top-0 left-0 right-0 z-50 shadow-md">
+    <!-- Left: History -->
+    <div class="flex items-center gap-2 text-purple-700 hover:text-purple-900 cursor-pointer">
+      <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path d="M3 3v5h5M3 13a9 9 0 103-7.71M12 7v5l4 2" />
+      </svg>
+      <span class="hidden sm:inline text-sm font-medium">History</span>
+    </div>
+
+    <!-- Center: App Title -->
+    <div class="text-xl sm:text-2xl font-extrabold text-purple-800 tracking-wide text-center">
+      Echo Mind
+    </div>
+
+    <!-- Right: Actions -->
+    <div class="flex items-center gap-4 text-purple-800">
+      <!-- New Chat -->
+      <button title="New Chat" class="hover:text-purple-900">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M12 4v16m8-8H4" />
+        </svg>
+      </button>
+      <!-- Share -->
+      <button title="Share" class="hover:text-purple-900">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M4 12v.01M12 4v.01M20 12v.01M12 20v.01M12 6a6 6 0 106 6h-1.5a4.5 4.5 0 11-9 0H6a6 6 0 006-6z"/>
+        </svg>
+      </button>
+      <!-- Login/Profile -->
+      <button title="Login" class="hover:text-purple-900">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M5.121 17.804A10.97 10.97 0 0012 20c2.397 0 4.604-.746 6.434-2.01M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+          <path d="M12 2a10 10 0 00-9.95 9H2a12 12 0 0122 0h-2.05A10 10 0 0012 2z" />
+        </svg>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <main class="flex-1 px-4 pt-24 pb-4 max-w-3xl mx-auto w-full">
+    <!-- Topics Section -->
+    <section class="mb-8">
+      <h2 class="text-xl font-semibold text-purple-800 mb-3">Suggested Topics</h2>
+      <div class="flex flex-wrap gap-3">
+        <button class="px-5 py-2 rounded-full topic-button text-sm transition">Finance</button>
+        <button class="px-5 py-2 rounded-full topic-button text-sm transition">Health</button>
+        <button class="px-5 py-2 rounded-full topic-button text-sm transition">Development</button>
+        <button class="px-5 py-2 rounded-full topic-button text-sm transition">Business</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- Chat Input Footer -->
+  <footer class="chat-footer px-4 py-4 glass flex items-center gap-3 sticky bottom-0 w-full max-w-3xl mx-auto">
+    <input type="text" placeholder="Type your message..." class="flex-1" />
+    <a href="voice.html" title="Voice Input">
+      <button type="button">
+        <svg class="w-6 h-6 text-purple-800" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M12 1v11m6 2v3a6 6 0 01-12 0v-3m6-14a4 4 0 00-4 4v7a4 4 0 108 0v-7a4 4 0 00-4-4z"/>
+        </svg>
+      </button>
+    </a>
+    <button type="submit">
+      <svg class="w-6 h-6 text-purple-800" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path d="M5 12h14M12 5l7 7-7 7" />
+      </svg>
+    </button>
+  </footer>
+
+</body>
+</html>
