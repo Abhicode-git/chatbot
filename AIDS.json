@@ -1,0 +1,153 @@
+{
+  "SUGGESTEDTOPICS": [
+    "PROGRAMS",
+    "ARTIFICIAL INTELLIGENCE & DATA SCIENCE"
+  ],
+  "TOPICSINFO": {
+    "PROGRAMS": {
+      "DESCRIPTION": "SNJB COE OFFERS A RANGE OF UNDERGRADUATE AND POSTGRADUATE PROGRAMS DESIGNED TO MEET CURRENT INDUSTRY AND RESEARCH DEMANDS. UNDERGRADUATE (B.E.) PROGRAMS INCLUDE CIVIL ENGINEERING, COMPUTER ENGINEERING, MECHANICAL ENGINEERING, ELECTRONICS AND TELECOMMUNICATION ENGINEERING, AND ARTIFICIAL INTELLIGENCE & DATA SCIENCE. POSTGRADUATE OFFERINGS INCLUDE A FULL-TIME MBA PROGRAM. ALL FIRST-YEAR ENGINEERING STUDENTS FOLLOW A COMMON CURRICULUM BEFORE ENTERING THEIR RESPECTIVE BRANCHES. THE PROGRAMS ARE OUTCOME-BASED AND ALIGNED WITH AICTE AND UNIVERSITY GUIDELINES.",
+      "IMAGE": "https://snjb.org/engineering/assets/images/academics.jpg"
+    },
+    "ARTIFICIAL INTELLIGENCE & DATA SCIENCE": {
+      "VISION": "TO PRODUCE COMPETENT PROFESSIONALS IN THE FIELD OF ARTIFICIAL INTELLIGENCE AND DATA SCIENCE WITH ETHICAL VALUES AND SOCIETAL COMMITMENT.",
+      "MISSION": [
+        "TO PROVIDE QUALITY EDUCATION THROUGH A WELL-DESIGNED CURRICULUM IN AI AND DS.",
+        "TO ENCOURAGE INNOVATION AND RESEARCH THROUGH INDUSTRY-ACADEMIC COLLABORATIONS.",
+        "TO INCULCATE PROFESSIONALISM, ETHICAL VALUES, AND A LIFELONG LEARNING ATTITUDE."
+      ],
+      "HOD": {
+        "NAME": "DR. R. R. BHANDARI",
+        "DESIGNATION": "HEAD OF DEPARTMENT",
+        "QUALIFICATION": "BE, M-TECH (IT), PHD (CSE)",
+        "EXPERIENCE": "15 YEARS",
+        "AREA OF INTEREST": "COMPUTER NETWORK & INTERNET OF THINGS",
+        "EMAIL": "bhandari.rrcoe@snjb.org"
+      },
+      "FACULTY": [
+        {
+          "NAME": "MR. N. V. SHARMA",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.TECH. (SOFTWARE ENGINEERING)",
+          "EXPERIENCE": "14 YEARS",
+          "AREA OF INTEREST": "LINUX & CLOUD COMPUTING",
+          "EMAIL": "sharma.nvcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MRS. V. P. SAHANE",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (COMPUTER ENGINEERING)",
+          "EXPERIENCE": "6 YEARS",
+          "AREA OF INTEREST": "DATA MINING",
+          "EMAIL": "sahane.vpcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MRS. J. L. PINGLE",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.E. (SIGNAL PROCESSING)",
+          "EXPERIENCE": "5 YEARS",
+          "AREA OF INTEREST": "INTERNET OF THINGS",
+          "EMAIL": "pingle.jlcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. M. V. KUMBHARDE",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.TECH. (SOFTWARE ENGINEERING)",
+          "EXPERIENCE": "11 YEARS",
+          "AREA OF INTEREST": "ARTIFICIAL INTELLIGENCE, MACHINE LEARNING",
+          "EMAIL": "kumbharde.mvcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "PROF. S. E. AGHAV",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (COMPUTER ENGINEERING)",
+          "EXPERIENCE": "8 YEARS",
+          "EMAIL": "aghav.secoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. A. S. KALE",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "BE, ME (CSE)",
+          "EXPERIENCE": "12 YEARS",
+          "AREA OF INTEREST": "SOFTWARE TESTING & SOFTWARE ENGINEERING",
+          "EMAIL": "kale.ascoe@snjb.org"
+        }
+      ],
+      "TECHNICAL STAFF": [
+        {
+          "NAME": "MS. N. N. AHER",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "DIPLOMA (COMPUTER ENGINEERING)",
+          "EXPERIENCE": "2 YEARS",
+          "AREA OF INTEREST": "HARDWARE AND NETWORKING",
+          "EMAIL": "aher.nncoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. S. S. JADHAV",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "B.E. (COMPUTER ENGINEERING)",
+          "AREA OF INTEREST": "HARDWARE AND NETWORKING",
+          "EMAIL": "jadhav.sscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MRS. S. G. GUNJAL",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "M.S.C. (COMPUTER SCIENCE)",
+          "AREA OF INTEREST": "HARDWARE AND NETWORKING",
+          "EMAIL": "gunjal.sgcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MRS. M. A. BRAMHECHA",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "B.E. (INFORMATION TECHNOLOGY)",
+          "AREA OF INTEREST": "CLOUD COMPUTING",
+          "EMAIL": "bramhecha.macoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MS. S.D. SUDAKE",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "B.E. (CIVIL ENGINEERING)",
+          "AREA OF INTEREST": "CLOUD COMPUTING",
+          "EMAIL": "sudake.sdcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. S. U. WAGH",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "B.E. (AI&DS)",
+          "AREA OF INTEREST": "AI, DS, ML, WEB TECHNOLOGY, CLOUD COMPUTING",
+          "EMAIL": "wagh.sucoe@snjb.org"
+        }
+      ],
+      "LABORATORIES": [
+        "AI AND ML LAB",
+        "CLOUD AND IOT LAB",
+        "PYTHON AND DATA ANALYTICS LAB"
+      ],
+      "EVENTS": [
+        "GUEST LECTURES ON AI TRENDS",
+        "HANDS-ON WORKSHOPS IN PYTHON AND ML",
+        "HACKATHONS AND CODING CHALLENGES"
+      ],
+      "ACHIEVEMENTS": [
+        "STUDENTS SECURED TOP RANKS IN AICTE HACKATHONS.",
+        "DEPARTMENT PUBLISHED RESEARCH IN SCOPUS-INDEXED JOURNALS.",
+        "FACULTY RECEIVED BEST PAPER AWARDS IN INTERNATIONAL CONFERENCES."
+      ],
+      "DOWNLOADS": [
+        "CURRICULUM SYLLABUS (PDF)",
+        "TIME TABLE (PDF)",
+        "LAB MANUALS (ZIP)"
+      ],
+      "IMAGE": "https://snjb.org/engineering/assets/images/departments/ai-ds.jpg"
+    }
+  }
+}

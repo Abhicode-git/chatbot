@@ -1,0 +1,144 @@
+{
+  "WELCOME MESSAGE": "WELCOME TO ELECTRONICS & TELECOMMUNICATION ENGINEERING DEPARTMENT!",
+  "SUGGESTED TOPICS": [
+    "PROGRAMS",
+    "ELECTRONICS & TELECOMMUNICATION ENGINEERING"
+  ],
+  "TOPICS INFO": {
+    "ELECTRONICS & TELECOMMUNICATION ENGINEERING": {
+      "HOD": {
+        "NAME": "DR. M. D. KOKATE",
+        "DESIGNATION": "PROFESSOR",
+        "QUALIFICATION": "ME (ELECTRONICS ENGG.), PHD (ELECTRONICS AND COMM. ENGG.)",
+        "EMAIL": "kokate.mdcoe@snjb.org"
+      },
+
+      "FACULTY": [
+        {
+          "NAME": "DR. R. K. AGRAWAL",
+          "DESIGNATION": "PROFESSOR",
+          "QUALIFICATION": "ME (ELECTRONICS), PHD (IMAGE PROCESSING)",
+          "AREA OF INTEREST": "IMAGE AND SIGNAL PROCESSING",
+          "EMAIL": "agrawal.rkcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "M. A. MECHKUL",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "ME (ELECTRONICS)",
+          "AREA OF INTEREST": "INSTRUMENTATION",
+          "EMAIL": "mechkul.macoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "Y. S. RATHOD",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "ME (ELECTRONICS)",
+          "AREA OF INTEREST": "ELECTRONICS AND TELECOMMUNICATION",
+          "EMAIL": "hon.yscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "S. S. THAKARE",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.TECH (MICROWAVE & MILIMETER ENGINEERING)",
+          "AREA OF INTEREST": "COMMUNICATION ENGINEERING",
+          "EMAIL": "thakare.sscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "R. A. GEETE",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "ME (COMMUNICATION ENGINEERING)",
+          "AREA OF INTEREST": "COMMUNICATION ENGINEERING (TEACHING TO FIRST YEAR)",
+          "EMAIL": "geete.racoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "S. B. MEMANE (BASTE)",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "ME (VLSI & EMBEDDED SYSTEM)",
+          "AREA OF INTEREST": "EMBEDDED AND VLSI",
+          "EMAIL": "memane.sbcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "K. K. BAMB",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "ME (ELECTRONICS-DIGITAL SYSTEM)",
+          "AREA OF INTEREST": "COMPUTER FUNDAMENTALS, DIGITAL SYSTEMS (TEACHING TO FIRST YEAR)",
+          "EMAIL": "bamb.kkcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "G. R. KSHIRSAGAR",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.E. (VLSI & EMBEDDED SYSTEMS), B.E. (E&TC)",
+          "AREA OF INTEREST": "EMBEDDED SYSTEM & NETWORKING",
+          "EMAIL": "kshirsagar.grcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "S. S. KHAIRNAR",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.TECH (DIGITAL COMMUNICATION)",
+          "AREA OF INTEREST": "ELECTRONICS & TELECOMMUNICATION",
+          "EMAIL": "khairnar.surajscoe@snjb.org"
+        }
+      ],
+
+      "TECHNICAL STAFF": [
+        {
+          "NAME": "V. A. AHER",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "D. E&TC",
+          "EMAIL": "aher.vacoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "P. B. AHER",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "BE (E&TC)",
+          "EMAIL": "aher.pbcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "H. B. JADHAV",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "D. E&TC",
+          "EMAIL": "jadhav.hbcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "S. M. MALI",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "B.E. ELECTRICAL",
+          "EMAIL": "mali.smcoe@snjb.org"
+        }
+      ],
+
+      "SUPPORT STAFF": [
+        {
+          "NAME": "J. G. RAHANE",
+          "DESIGNATION": "ELECTRICIAN",
+          "QUALIFICATION": "ITI (ELECTRICAL)",
+          "EMAIL": "rahane.jgcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. SANTOSH GANGURDE",
+          "DESIGNATION": "PEON",
+          "QUALIFICATION": "HSC"
+        },
+        "---",
+        {
+          "NAME": "MR. MILIND DHANDAL",
+          "DESIGNATION": "PEON",
+          "QUALIFICATION": "SSC"
+        }
+      ],
+
+      "IMAGE": "https://snjb.org/engineering/assets/images/departments/electronics.jpg"
+    }
+  }
+}

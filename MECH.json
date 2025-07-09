@@ -1,0 +1,226 @@
+{
+  "WELCOME MESSAGE": "WELCOME TO MECHANICAL ENGINEERING DEPARTMENT!",
+  "SUGGESTED TOPICS": [
+    "PROGRAMS",
+    "MECHANICAL ENGINEERING"
+  ],
+  "TOPICS INFO": {
+    "MECHANICAL ENGINEERING": {
+      "HOD": {
+        "NAME": "DR. S. D. SANCHETI",
+        "DESIGNATION": "HEAD & PROFESSOR",
+        "QUALIFICATION": "M. E. (MACHINE DESIGN), MBA (HR), PHD",
+        "EXPERIENCE": "20 YEARS",
+        "AREA OF INTEREST": "DESIGN",
+        "EMAIL": "sancheti.sdcoe@snjb.org"
+      },
+
+      "FACULTY": [
+        {
+          "NAME": "DR. R. G. TATED",
+          "DESIGNATION": "PROFESSOR",
+          "QUALIFICATION": "PH. D.",
+          "EXPERIENCE": "36 YEARS",
+          "AREA OF INTEREST": "INDUSTRIAL ENGINEERING",
+          "EMAIL": "tated.rgcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "DR. P. R. BAVISKAR",
+          "DESIGNATION": "PROFESSOR",
+          "QUALIFICATION": "PHD",
+          "EXPERIENCE": "27 YEARS",
+          "AREA OF INTEREST": "DESIGN, MECH. VIBRATION, SOLAR",
+          "EMAIL": "baviskar.prcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "DR. R. C. PATIL",
+          "DESIGNATION": "ASSOCIATE PROFESSOR",
+          "QUALIFICATION": "M. E. THERMAL, PHD",
+          "EXPERIENCE": "27 YEARS",
+          "AREA OF INTEREST": "THERMAL",
+          "EMAIL": "patil.rccoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "J. S. PAGAR",
+          "DESIGNATION": "ASSISTANT PROFESSOR & WORKSHOP SUPERINTENDENT",
+          "QUALIFICATION": "M. E. (MACHINE DESIGN)",
+          "EXPERIENCE": "18 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "pagar.jscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "R. M. SONAR",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (MACHINE DESIGN)",
+          "EXPERIENCE": "22 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "sonar.rmcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "R. S. CHAUDHARI",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (MACHINE DESIGN)",
+          "EXPERIENCE": "16 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "chaudhari.rscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "H. S. DEORE",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (MACHINE DESIGN)",
+          "EXPERIENCE": "16 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "deore.hscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "P. M. BORA",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. TECH. (MACHINE DESIGN & ROBOTICS)",
+          "EXPERIENCE": "16 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "bora.pmcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "S. U. PATIL",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (THERMAL)",
+          "EXPERIENCE": "15 YEARS",
+          "AREA OF INTEREST": "THERMAL",
+          "EMAIL": "patil.sucoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "K. B. GORE",
+          "DESIGNATION": "ASSISTANT PROFESSOR (TEACHING TO FIRST YEAR)",
+          "QUALIFICATION": "M.E. (MECHANICAL ENGINEERING - DESIGN)",
+          "EXPERIENCE": "12 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "gore.kbcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "V. C. JADHAV",
+          "DESIGNATION": "ASSISTANT PROFESSOR (TEACHING TO FIRST YEAR)",
+          "QUALIFICATION": "M.E. (DESIGN OF MECHANICAL SYSTEM)",
+          "EXPERIENCE": "12 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "jadhav.vccoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "D. D. SANCHETI",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (CAD AND ME)",
+          "EXPERIENCE": "10 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "sancheti.ddcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "D. H. DAREKAR",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (MACHINE DESIGN)",
+          "EXPERIENCE": "15 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "darekar.dhcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "Y. S. KULKARNI",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.TECH. (THERMAL ENGINEERING)",
+          "EXPERIENCE": "15 YEARS",
+          "AREA OF INTEREST": "THERMAL",
+          "EMAIL": "kulkarni.yscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "S. P. INGALE",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (THERMAL)",
+          "EXPERIENCE": "12 YEARS",
+          "AREA OF INTEREST": "THERMAL",
+          "EMAIL": "ingale.spcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "R. N. CHANDORE",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (MACHINE DESIGN)",
+          "EXPERIENCE": "11 YEARS",
+          "AREA OF INTEREST": "MACHINE DESIGN",
+          "EMAIL": "chandore.rncoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "S. C. PARDESHI",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (MECHANICAL ENGG.)",
+          "EXPERIENCE": "15 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "pardeshi.sccoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "S. R. MANDALE",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M. E. (MACHINE DESIGN)",
+          "EXPERIENCE": "12 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "mandalesai@gmail.com"
+        }
+      ],
+
+      "TECHNICAL STAFF": [
+        {
+          "NAME": "N. C. KHAIRNAR",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "E&TC",
+          "EXPERIENCE": "14 YEARS",
+          "EMAIL": "khairnar.nccoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "U. S. SHINDE",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "DME",
+          "EXPERIENCE": "17 YEARS",
+          "EMAIL": "shinde.uscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. RAMCHANDRA VIJAY WAGH",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "DIPLOMA (ELECTRICAL)",
+          "EMAIL": "wagh.rvcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "R. R. KOLHE",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "DIPLOMA (ELECTRICAL)",
+          "EXPERIENCE": "8 YEARS",
+          "EMAIL": "kolhe.rrcoe@snjb.org"
+        }
+      ],
+
+      "SUPPORT STAFF": [
+        {
+          "NAME": "S. N. GANGURDE",
+          "DESIGNATION": "PEON",
+          "QUALIFICATION": "12TH"
+        }
+      ],
+
+      "IMAGE": "https://snjb.org/engineering/assets/images/departments/mechanical.jpg"
+    }
+  }
+}

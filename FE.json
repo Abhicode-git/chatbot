@@ -1,0 +1,196 @@
+{
+  "WELCOME MESSAGE": "WELCOME TO FIRST YEAR ENGINEERING DEPARTMENT!",
+  "SUGGESTED TOPICS": [
+    "PROGRAMS",
+    "FIRST YEAR ENGINEERING"
+  ],
+  "TOPICS INFO": {
+    "FIRST YEAR ENGINEERING": {
+      "HOD": {
+        "NAME": "S. B. CHAVAN",
+        "DESIGNATION": "ASSISTANT PROFESSOR & HEAD",
+        "QUALIFICATION": "M.SC. (MATHEMATICS)",
+        "AREA OF INTEREST": "MATHEMATICS",
+        "EMAIL": "chavan.sbcoe@snjb.org"
+      },
+
+      "FACULTY": [
+        {
+          "NAME": "B. A. KHIVSARA",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "FE COUNSELOR, BE, ME (CSE)",
+          "EXPERIENCE": "10.6 YEARS",
+          "AREA OF INTEREST": "DATA MINING",
+          "EMAIL": "khivsara.bacoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "DR. P. R. BAVISKAR",
+          "DESIGNATION": "PROFESSOR",
+          "QUALIFICATION": "PHD",
+          "EXPERIENCE": "27 YEARS",
+          "AREA OF INTEREST": "DESIGN, MECH. VIBRATION, SOLAR",
+          "EMAIL": "baviskar.prcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "DR. S. D. SANCHETI",
+          "DESIGNATION": "PROFESSOR",
+          "QUALIFICATION": "M.E. (MACHINE DESIGN), MBA (HR), PHD",
+          "EXPERIENCE": "20 YEARS",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "sancheti.sdcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "JADHAV V.C.",
+          "DESIGNATION": "ASSISTANT PROFESSOR & ACADEMIC COORDINATOR",
+          "QUALIFICATION": "M.E. (DESIGN OF MECHANICAL SYSTEM)",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "jadhav.vccoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "DHAKE D.S.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.SC (PHYSICS), SET",
+          "AREA OF INTEREST": "MATERIAL SCIENCE",
+          "EMAIL": "dhake.dscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "PAWAR A.D.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.SC. (ORGANIC CHEMISTRY), NET",
+          "AREA OF INTEREST": "ORGANIC CHEMISTRY",
+          "EMAIL": "pawar.adcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "WADNERE S.S.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "BE, ME (CSE)",
+          "AREA OF INTEREST": "NETWORKING, SERVER ADMINISTRATION",
+          "EMAIL": "wadnere.sscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "DESAI P.S.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.E. (CSE)",
+          "AREA OF INTEREST": "IMAGE PROCESSING",
+          "EMAIL": "desai.pscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "GEETE R.A.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.E. (COMMUNICATION ENGINEERING)",
+          "AREA OF INTEREST": "COMMUNICATION ENGINEERING",
+          "EMAIL": "geete.racoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "BAMB K.K.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.E. (ELECTRONICS - DIGITAL SYSTEM)",
+          "AREA OF INTEREST": "COMPUTER FUNDAMENTALS, DIGITAL SYSTEMS",
+          "EMAIL": "bamb.kkcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "PAWAR L.B.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "B.E., M.TECH, PHD (PURSUING)",
+          "AREA OF INTEREST": "STRUCTURAL ENGINEERING",
+          "EMAIL": "pawar.lbcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "DHOMSE M.S.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "B.E., M.E.",
+          "AREA OF INTEREST": "STRUCTURAL ENGINEERING",
+          "EMAIL": "dhomse.mscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "GORE K.B.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.E. (MECHANICAL ENGINEERING - DESIGN)",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "gore.kbcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MANDALE S.R.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.E. (MECHANICAL DESIGN)",
+          "AREA OF INTEREST": "DESIGN",
+          "EMAIL": "mandalesai@gmail.com"
+        },
+        "---",
+        {
+          "NAME": "RAYATE S.J.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.SC (MATHEMATICS)",
+          "AREA OF INTEREST": "PURE MATHEMATICS",
+          "EMAIL": "rayate.sjcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "PAGAR P.R.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.SC (MATHEMATICS)",
+          "AREA OF INTEREST": "MATHEMATICS",
+          "EMAIL": "pagar.prcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "SHINDE R.V.",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.SC (PHYSICS), SET",
+          "AREA OF INTEREST": "PHYSICS",
+          "EMAIL": "shinde.rvcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "P. R. WAGH",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.SC (CHEMISTRY), B.ED",
+          "EXPERIENCE": "2 YEARS",
+          "AREA OF INTEREST": "ANALYTICAL CHEMISTRY",
+          "EMAIL": "wagh.prcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "P. D. BHAWAR",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.E. (STRUCTURE)",
+          "EXPERIENCE": "5 YEARS",
+          "AREA OF INTEREST": "STRUCTURAL ENGINEERING",
+          "EMAIL": "bhavar.pdcoe@snjb.org"
+        }
+      ],
+
+      "TECHNICAL STAFF": [
+        {
+          "NAME": "GADHAKH G.H.",
+          "DESIGNATION": "LABORATORY ASSISTANT (PHYSICS LAB)",
+          "QUALIFICATION": "DIPLOMA IN E&TC",
+          "EMAIL": "gadhakh.hgcoe@snjb.org"
+        }
+      ],
+
+      "SUPPORT STAFF": [
+        {
+          "NAME": "YOGESH CHAVAN",
+          "DESIGNATION": "ATTENDANT",
+          "QUALIFICATION": "SSC"
+        }
+      ],
+
+      "IMAGE": "https://snjb.org/engineering/assets/images/departments/first-year.jpg"
+    }
+  }
+}

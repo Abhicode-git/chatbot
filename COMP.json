@@ -1,0 +1,212 @@
+{
+  
+  "SUGGESTED TOPICS": [
+    "PROGRAMS",
+    "COMPUTER ENGINEERING"
+  ],
+  "TOPICS INFO": {
+    "PROGRAMS": {
+      "DESCRIPTION": "SNJB COE OFFERS A RANGE OF UNDERGRADUATE AND POSTGRADUATE PROGRAMS DESIGNED TO MEET CURRENT INDUSTRY AND RESEARCH DEMANDS. UNDERGRADUATE (B.E.) PROGRAMS INCLUDE CIVIL ENGINEERING, COMPUTER ENGINEERING, MECHANICAL ENGINEERING, ELECTRONICS AND TELECOMMUNICATION ENGINEERING, AND ARTIFICIAL INTELLIGENCE & DATA SCIENCE. POSTGRADUATE OFFERINGS INCLUDE A FULL-TIME MBA PROGRAM. ALL FIRST-YEAR ENGINEERING STUDENTS FOLLOW A COMMON CURRICULUM BEFORE ENTERING THEIR RESPECTIVE BRANCHES. THE PROGRAMS ARE OUTCOME-BASED AND ALIGNED WITH AICTE AND UNIVERSITY GUIDELINES.",
+      "IMAGE": "https://snjb.org/engineering/assets/images/academics.jpg"
+    },
+
+    "COMPUTER ENGINEERING": {
+      "VISION": "TO IMPART QUALITY EDUCATION IN COMPUTER ENGINEERING AND TO PREPARE STUDENTS TO FACE GLOBAL CHALLENGES.",
+      "MISSION": [
+        "TO DEVELOP COMPETENT COMPUTER ENGINEERS WITH PROFESSIONAL ETHICS AND LEADERSHIP SKILLS.",
+        "TO STRENGTHEN INDUSTRY-INSTITUTE INTERACTION FOR ENHANCING TECHNICAL SKILLS.",
+        "TO PROMOTE RESEARCH, INNOVATION, AND ENTREPRENEURSHIP AMONG STUDENTS."
+      ],
+
+      "HOD": {
+        "NAME": "DR. K. M. SANGHAVI",
+        "DESIGNATION": "PROFESSOR & HEAD",
+        "QUALIFICATION": "BE, ME (CSE), PHD (CSE)",
+        "EXPERIENCE": "21 YEARS",
+        "AREA OF INTEREST": "IMAGE PROCESSING, COMPILER CONSTRUCTIONS, OOP",
+        "EMAIL": "sanghavi.kmcoe@snjb.org"
+      },
+
+      "VICE PRINCIPAL": {
+        "NAME": "DR. M. R. SANGHAVI",
+        "DESIGNATION": "PROFESSOR & VICE-PRINCIPAL",
+        "QUALIFICATION": "BE, ME, PHD (CSE)",
+        "EXPERIENCE": "21 YEARS",
+        "AREA OF INTEREST": "IMAGE PROCESSING, DBMS, BIG DATA & HADOOP, BI & INTERNET OF THINGS",
+        "EMAIL": "sanghavi.mrcoe@snjb.org"
+      },
+
+      "FACULTY": [
+        {
+          "NAME": "DR. K. R. NIRMAL",
+          "DESIGNATION": "ASSOCIATE PROFESSOR",
+          "QUALIFICATION": "M.TECH. (IT), PHD (CSE)",
+          "EXPERIENCE": "15 YEARS",
+          "AREA OF INTEREST": "MACHINE LEARNING, COMPUTER GRAPHICS, CLOUD COMPUTING",
+          "EMAIL": "nirmal.krcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "DR. R. R. BHANDARI",
+          "DESIGNATION": "ASSOCIATE PROFESSOR",
+          "QUALIFICATION": "BE, M-TECH (IT), PHD (CSE)",
+          "EXPERIENCE": "16 YEARS",
+          "AREA OF INTEREST": "WIRELESS SENSOR NETWORK & INTERNET OF THINGS",
+          "EMAIL": "bhandari.rrcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MRS. B. A. KHIVSARA",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "BE, ME (CSE), PURSUING PHD",
+          "EXPERIENCE": "17 YEARS",
+          "AREA OF INTEREST": "WEB DEVELOPMENT, DATA MINING, DATA ANALYTICS",
+          "EMAIL": "khivsara.bacoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. D. R. AGRAWAL",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "BE, M-TECH (IT), PURSUING PHD",
+          "EXPERIENCE": "15.7 YEARS",
+          "AREA OF INTEREST": "MULTIMEDIA SYSTEMS, DISTRIBUTED COMPUTING",
+          "EMAIL": "agrawal.drcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MRS. D. P. PAWAR",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "BE, ME (CSE), PURSUING PHD",
+          "EXPERIENCE": "16.6 YEARS",
+          "AREA OF INTEREST": "DATA MINING",
+          "EMAIL": "pawar.dpcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. D. S. RAJNOR",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "BE, M-TECH (CSE)",
+          "EXPERIENCE": "15 YEARS",
+          "AREA OF INTEREST": "CYBER SECURITY, DATA MINING",
+          "EMAIL": "rajnor.dscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. P. S. DESAI",
+          "DESIGNATION": "ASSISTANT PROFESSOR (FE)",
+          "QUALIFICATION": "BE, M.E. (CSE)",
+          "EXPERIENCE": "15 YEARS",
+          "AREA OF INTEREST": "IMAGE PROCESSING",
+          "EMAIL": "desai.pscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "DR. S. B. JADHAV",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "M.E. (CSE), PHD (COMPUTER)",
+          "EXPERIENCE": "15 YEARS",
+          "AREA OF INTEREST": "DEEP LEARNING, DRONE TECHNOLOGY",
+          "EMAIL": "chavan.sacoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "DR. N. P. BORA",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "BE, M-TECH (IT), PHD (CSE)",
+          "EXPERIENCE": "15 YEARS",
+          "AREA OF INTEREST": "TOC, CG, DM, DAA, AI, CYBER SECURITY, IMAGE PROCESSING",
+          "EMAIL": "mutha.nccoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. Y. S. PATIL",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "BE IT, M.TECH, PHD (PURSUING)",
+          "EXPERIENCE": "2 YEARS",
+          "AREA OF INTEREST": "IOT, AI/ML, EARTH SCIENCES, SUSTAINABLE DEVELOPMENT",
+          "EMAIL": "patil.yscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. RAMESH P. DAUND",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "BE, ME (CN), PHD (PURSUING)",
+          "EXPERIENCE": "11.6 YEARS",
+          "AREA OF INTEREST": "COMPUTER NETWORKS, NETWORK SECURITY, CLOUD COMPUTING",
+          "EMAIL": "daund.rpcoe@snjb.org"
+        }
+      ],
+
+      "TECHNICAL STAFF": [
+        {
+          "NAME": "MR. P. R. JADHAV",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "BE IT (PURSUING)",
+          "AREA OF INTEREST": "NETWORKING",
+          "EMAIL": "jadhav.prcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MR. S. S. PATIL",
+          "DESIGNATION": "SYSTEM ANALYST",
+          "QUALIFICATION": "M.C.A",
+          "EMAIL": "patil.sscoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "MS. S. R. JONDHALE",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "BE (IT)",
+          "EMAIL": "jondhale.srcoe@snjb.org"
+        }
+      ],
+
+      "NON-TEACHING STAFF": [
+        {
+          "NAME": "MR. PRADIP BAGUL",
+          "DESIGNATION": "PEON",
+          "QUALIFICATION": "HSC"
+        },
+        "---",
+        {
+          "NAME": "MR. SAGAR JADHAV",
+          "DESIGNATION": "PEON",
+          "QUALIFICATION": "HSC"
+        },
+        "---",
+        {
+          "NAME": "MR. NILESH PAWAR",
+          "DESIGNATION": "PEON"
+        }
+      ],
+
+      "LABORATORIES": [
+        "DATA STRUCTURE LAB",
+        "COMPUTER NETWORK LAB",
+        "AI/ML LAB",
+        "SOFTWARE ENGINEERING LAB",
+        "PROJECT LAB"
+      ],
+
+      "EVENTS": [
+        "TECHTALKS AND GUEST LECTURES",
+        "CODEMANIA - ANNUAL CODING COMPETITION",
+        "WORKSHOPS ON BIG DATA, IOT"
+      ],
+
+      "ACHIEVEMENTS": [
+        "STUDENTS PARTICIPATED AND WON IN SMART INDIA HACKATHON.",
+        "FACULTY PUBLISHED PAPERS IN REPUTED JOURNALS.",
+        "COLLABORATION WITH LOCAL INDUSTRY FOR LIVE PROJECTS."
+      ],
+
+      "DOWNLOADS": [
+        "CURRICULUM (PDF)",
+        "LAB MANUALS",
+        "ACADEMIC CALENDAR"
+      ],
+
+      "IMAGE": "https://snjb.org/engineering/assets/images/departments/computer.jpg"
+    }
+  }
+}

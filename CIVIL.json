@@ -1,0 +1,75 @@
+{
+  "WELCOME MESSAGE": "WELCOME TO CIVIL ENGINEERING DEPARTMENT!",
+  "SUGGESTED TOPICS": [
+    "PROGRAMS",
+    "CIVIL ENGINEERING"
+  ],
+  "TOPICS INFO": {
+    "CIVIL ENGINEERING": {
+      "VISION": "TO PRODUCE CIVIL ENGINEERS WITH STRONG TECHNICAL KNOWLEDGE, INNOVATION, AND A SENSE OF RESPONSIBILITY TOWARDS SOCIETY AND THE ENVIRONMENT.",
+
+      "MISSION": [
+        "TO IMPART HIGH-QUALITY EDUCATION IN CIVIL ENGINEERING THROUGH UPDATED CURRICULUM AND PRACTICAL EXPOSURE.",
+        "TO DEVELOP STUDENTS' SKILLS IN PLANNING, DESIGNING, AND EXECUTING CIVIL ENGINEERING PROJECTS USING MODERN TOOLS AND TECHNIQUES.",
+        "TO FOSTER INDUSTRY-INSTITUTE INTERACTION AND PROMOTE RESEARCH IN SUSTAINABLE DEVELOPMENT."
+      ],
+
+      "HOD": {
+        "NAME": "DR. K.L. BIDKAR",
+        "DESIGNATION": "PROFESSOR & HEAD",
+        "QUALIFICATION": "B.E., M.E., PH.D",
+        "EXPERIENCE": "36 YEARS",
+        "AREA OF INTEREST": "WATER RESOURCES ENGINEERING",
+        "EMAIL": "hodcivilcoe@snjb.org"
+      },
+
+      "FACULTY": [
+        {
+          "NAME": "P. M. YEOLE",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "B.E., M.E., PH.D (PURSUING)",
+          "EXPERIENCE": "16 YEARS",
+          "AREA OF INTEREST": "STRUCTURAL ENGINEERING",
+          "EMAIL": "yeole.pmcoe@snjb.org"
+        },
+        "---",
+        {
+          "NAME": "DR. L. B. PAWAR",
+          "DESIGNATION": "ASSISTANT PROFESSOR",
+          "QUALIFICATION": "B.E., M.TECH, PH.D",
+          "EXPERIENCE": "14 YEARS",
+          "AREA OF INTEREST": "STRUCTURAL ENGINEERING",
+          "EMAIL": "pawar.lbcoe@snjb.org"
+        }
+      ],
+
+      "TECHNICAL STAFF": [
+        {
+          "NAME": "A. C. MAHAJAN",
+          "DESIGNATION": "TECHNICAL ASSISTANT",
+          "QUALIFICATION": "D.C.E.",
+          "EMAIL": "mahajan.accoe@snjb.org"
+        }
+      ],
+
+      "LABORATORIES": [
+        "MATERIAL TESTING LAB",
+        "CONCRETE TECHNOLOGY LAB"
+      ],
+
+      "EVENTS": [
+        "SITE VISITS TO ONGOING INFRASTRUCTURE PROJECTS"
+      ],
+
+      "ACHIEVEMENTS": [
+        "TOP UNIVERSITY RANKS SECURED BY CIVIL ENGINEERING STUDENTS."
+      ],
+
+      "DOWNLOADS": [
+        "CURRICULUM SYLLABUS (PDF)"
+      ],
+
+      "IMAGE": "https://snjb.org/engineering/assets/images/departments/civil.jpg"
+    }
+  }
+}
