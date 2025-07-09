@@ -1,0 +1,742 @@
+{
+    "codingPaths": {
+        "C++": [{
+                "day": 1,
+                "topic": "Setup Environment, Hello World, Basic Syntax",
+                "difficulty": "beginner",
+                "duration": "2-3 hours",
+                "resources": ["Install compiler", "First program", "Syntax basics"]
+            },
+            {
+                "day": 2,
+                "topic": "Variables, Data Types, Constants",
+                "difficulty": "beginner",
+                "duration": "3-4 hours",
+                "resources": ["int, float, char", "const keyword", "Type conversion"]
+            },
+            {
+                "day": 3,
+                "topic": "Operators and Expressions",
+                "difficulty": "beginner",
+                "duration": "2-3 hours",
+                "resources": ["Arithmetic", "Logical", "Bitwise"]
+            },
+            {
+                "day": 4,
+                "topic": "Control Flow: if, switch",
+                "difficulty": "beginner",
+                "duration": "3-4 hours",
+                "resources": ["Conditional statements", "Switch cases", "Ternary operator"]
+            },
+            {
+                "day": 5,
+                "topic": "Loops: for, while, do-while",
+                "difficulty": "beginner",
+                "duration": "3-4 hours",
+                "resources": ["Loop types", "Nested loops", "break/continue"]
+            },
+            {
+                "day": 6,
+                "topic": "Functions and Scope",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["Function declaration", "Parameters", "Return values"]
+            },
+            {
+                "day": 7,
+                "topic": "Arrays and Strings",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["Array basics", "String handling", "char arrays"]
+            },
+            {
+                "day": 8,
+                "topic": "Pointers and Memory",
+                "difficulty": "intermediate",
+                "duration": "5-6 hours",
+                "resources": ["Pointer basics", "Dynamic memory", "References"]
+            },
+            {
+                "day": 9,
+                "topic": "Structures and Unions",
+                "difficulty": "intermediate",
+                "duration": "3-4 hours",
+                "resources": ["struct keyword", "union basics", "typedef"]
+            },
+            {
+                "day": 10,
+                "topic": "File I/O Operations",
+                "difficulty": "intermediate",
+                "duration": "3-4 hours",
+                "resources": ["fstream", "File modes", "Error handling"]
+            },
+            {
+                "day": 11,
+                "topic": "Classes and Objects (OOP)",
+                "difficulty": "advanced",
+                "duration": "5-6 hours",
+                "resources": ["Class definition", "Objects", "Constructors"]
+            },
+            {
+                "day": 12,
+                "topic": "Inheritance and Polymorphism",
+                "difficulty": "advanced",
+                "duration": "5-6 hours",
+                "resources": ["Inheritance types", "Virtual functions", "Polymorphism"]
+            },
+            {
+                "day": 13,
+                "topic": "Exception Handling",
+                "difficulty": "advanced",
+                "duration": "3-4 hours",
+                "resources": ["try-catch", "throw", "Custom exceptions"]
+            },
+            {
+                "day": 14,
+                "topic": "STL and Templates",
+                "difficulty": "advanced",
+                "duration": "6-7 hours",
+                "resources": ["Standard Template Library", "Containers", "Iterators"]
+            },
+            {
+                "day": 15,
+                "topic": "Final Project: Build a Complete Application",
+                "difficulty": "advanced",
+                "duration": "8-10 hours",
+                "resources": ["Project planning", "Implementation", "Testing"]
+            }
+        ],
+        "Java": [{
+                "day": 1,
+                "topic": "JDK Setup, Hello World, IDE Configuration",
+                "difficulty": "beginner",
+                "duration": "2-3 hours",
+                "resources": ["Install JDK", "IDE setup", "First program"]
+            },
+            {
+                "day": 2,
+                "topic": "Variables, Data Types, Operators",
+                "difficulty": "beginner",
+                "duration": "3-4 hours",
+                "resources": ["Primitive types", "Variables", "Operators"]
+            },
+            {
+                "day": 3,
+                "topic": "Control Structures: if, switch, loops",
+                "difficulty": "beginner",
+                "duration": "4-5 hours",
+                "resources": ["Conditionals", "Loops", "Flow control"]
+            },
+            {
+                "day": 4,
+                "topic": "Methods and Parameter Passing",
+                "difficulty": "beginner",
+                "duration": "3-4 hours",
+                "resources": ["Method definition", "Parameters", "Return types"]
+            },
+            {
+                "day": 5,
+                "topic": "Arrays and Collections Basics",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["Arrays", "ArrayList", "Basic collections"]
+            },
+            {
+                "day": 6,
+                "topic": "Classes, Objects, and Constructors",
+                "difficulty": "intermediate",
+                "duration": "5-6 hours",
+                "resources": ["OOP basics", "Class design", "Constructors"]
+            },
+            {
+                "day": 7,
+                "topic": "Inheritance and Method Overriding",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["extends keyword", "super", "Overriding"]
+            },
+            {
+                "day": 8,
+                "topic": "Interfaces and Abstract Classes",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["interface keyword", "abstract classes", "Implementation"]
+            },
+            {
+                "day": 9,
+                "topic": "Exception Handling and Debugging",
+                "difficulty": "intermediate",
+                "duration": "3-4 hours",
+                "resources": ["try-catch", "Custom exceptions", "Debugging"]
+            },
+            {
+                "day": 10,
+                "topic": "File I/O and Serialization",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["File operations", "Streams", "Serialization"]
+            },
+            {
+                "day": 11,
+                "topic": "Multithreading Basics",
+                "difficulty": "advanced",
+                "duration": "5-6 hours",
+                "resources": ["Thread class", "Runnable", "Synchronization"]
+            },
+            {
+                "day": 12,
+                "topic": "Lambda Expressions and Streams",
+                "difficulty": "advanced",
+                "duration": "5-6 hours",
+                "resources": ["Lambda syntax", "Stream API", "Functional programming"]
+            },
+            {
+                "day": 13,
+                "topic": "Database Connectivity (JDBC)",
+                "difficulty": "advanced",
+                "duration": "4-5 hours",
+                "resources": ["JDBC basics", "Database operations", "Connection pooling"]
+            },
+            {
+                "day": 14,
+                "topic": "GUI Development with Swing/JavaFX",
+                "difficulty": "advanced",
+                "duration": "6-7 hours",
+                "resources": ["GUI components", "Event handling", "Layout managers"]
+            },
+            {
+                "day": 15,
+                "topic": "Final Project: Complete Java Application",
+                "difficulty": "advanced",
+                "duration": "8-10 hours",
+                "resources": ["Project planning", "Implementation", "Testing"]
+            }
+        ],
+        "Python": [{
+                "day": 1,
+                "topic": "Python Installation, IDLE, Hello World",
+                "difficulty": "beginner",
+                "duration": "2-3 hours",
+                "resources": ["Install Python", "IDLE/VSCode", "First program"]
+            },
+            {
+                "day": 2,
+                "topic": "Variables, Data Types, Basic Operations",
+                "difficulty": "beginner",
+                "duration": "3-4 hours",
+                "resources": ["Variables", "Numbers, strings", "Basic operations"]
+            },
+            {
+                "day": 3,
+                "topic": "Control Flow: if, elif, else",
+                "difficulty": "beginner",
+                "duration": "2-3 hours",
+                "resources": ["Conditionals", "Boolean logic", "Comparison operators"]
+            },
+            {
+                "day": 4,
+                "topic": "Loops: for, while, range()",
+                "difficulty": "beginner",
+                "duration": "3-4 hours",
+                "resources": ["for loops", "while loops", "range function"]
+            },
+            {
+                "day": 5,
+                "topic": "Functions and Modules",
+                "difficulty": "beginner",
+                "duration": "4-5 hours",
+                "resources": ["def keyword", "Parameters", "import statements"]
+            },
+            {
+                "day": 6,
+                "topic": "Data Structures: Lists, Tuples, Dictionaries",
+                "difficulty": "intermediate",
+                "duration": "5-6 hours",
+                "resources": ["Lists", "Tuples", "Dictionaries", "Sets"]
+            },
+            {
+                "day": 7,
+                "topic": "String Manipulation and Regular Expressions",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["String methods", "Formatting", "RegEx"]
+            },
+            {
+                "day": 8,
+                "topic": "File Handling and I/O Operations",
+                "difficulty": "intermediate",
+                "duration": "3-4 hours",
+                "resources": ["File operations", "CSV handling", "JSON"]
+            },
+            {
+                "day": 9,
+                "topic": "Object-Oriented Programming",
+                "difficulty": "intermediate",
+                "duration": "5-6 hours",
+                "resources": ["Classes", "Objects", "Inheritance"]
+            },
+            {
+                "day": 10,
+                "topic": "Error Handling and Exceptions",
+                "difficulty": "intermediate",
+                "duration": "3-4 hours",
+                "resources": ["try-except", "Custom exceptions", "Error handling"]
+            },
+            {
+                "day": 11,
+                "topic": "Libraries: NumPy, Pandas Basics",
+                "difficulty": "advanced",
+                "duration": "5-6 hours",
+                "resources": ["NumPy arrays", "Pandas DataFrames", "Data analysis"]
+            },
+            {
+                "day": 12,
+                "topic": "Web Development with Flask/Django",
+                "difficulty": "advanced",
+                "duration": "6-7 hours",
+                "resources": ["Flask basics", "Routes", "Templates"]
+            },
+            {
+                "day": 13,
+                "topic": "Database Integration (SQLite/PostgreSQL)",
+                "difficulty": "advanced",
+                "duration": "4-5 hours",
+                "resources": ["Database connections", "SQL queries", "ORM"]
+            },
+            {
+                "day": 14,
+                "topic": "Testing and Debugging",
+                "difficulty": "advanced",
+                "duration": "3-4 hours",
+                "resources": ["unittest", "pytest", "Debugging tools"]
+            },
+            {
+                "day": 15,
+                "topic": "Final Project: Python Application",
+                "difficulty": "advanced",
+                "duration": "8-10 hours",
+                "resources": ["Project planning", "Implementation", "Deployment"]
+            }
+        ],
+        "JavaScript": [{
+                "day": 1,
+                "topic": "JavaScript Basics, Variables, Console",
+                "difficulty": "beginner",
+                "duration": "2-3 hours",
+                "resources": ["Browser console", "Variables", "Basic syntax"]
+            },
+            {
+                "day": 2,
+                "topic": "Data Types and Type Conversion",
+                "difficulty": "beginner",
+                "duration": "3-4 hours",
+                "resources": ["Primitive types", "Type coercion", "typeof operator"]
+            },
+            {
+                "day": 3,
+                "topic": "Functions and Scope",
+                "difficulty": "beginner",
+                "duration": "4-5 hours",
+                "resources": ["Function declaration", "Arrow functions", "Scope"]
+            },
+            {
+                "day": 4,
+                "topic": "Arrays and Array Methods",
+                "difficulty": "beginner",
+                "duration": "4-5 hours",
+                "resources": ["Array basics", "map, filter, reduce", "Array methods"]
+            },
+            {
+                "day": 5,
+                "topic": "Objects and Object Methods",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["Object literals", "Methods", "this keyword"]
+            },
+            {
+                "day": 6,
+                "topic": "DOM Manipulation",
+                "difficulty": "intermediate",
+                "duration": "5-6 hours",
+                "resources": ["DOM selection", "Event handling", "Element manipulation"]
+            },
+            {
+                "day": 7,
+                "topic": "Event Handling and User Interaction",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["Event listeners", "Event objects", "Forms"]
+            },
+            {
+                "day": 8,
+                "topic": "Asynchronous JavaScript: Promises",
+                "difficulty": "intermediate",
+                "duration": "5-6 hours",
+                "resources": ["Promises", "then/catch", "Promise chains"]
+            },
+            {
+                "day": 9,
+                "topic": "Async/Await and Fetch API",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["async/await", "Fetch API", "HTTP requests"]
+            },
+            {
+                "day": 10,
+                "topic": "ES6+ Features",
+                "difficulty": "advanced",
+                "duration": "5-6 hours",
+                "resources": ["Destructuring", "Spread operator", "Template literals"]
+            },
+            {
+                "day": 11,
+                "topic": "Modules and Package Management",
+                "difficulty": "advanced",
+                "duration": "4-5 hours",
+                "resources": ["ES modules", "npm", "Package.json"]
+            },
+            {
+                "day": 12,
+                "topic": "Introduction to React/Vue/Angular",
+                "difficulty": "advanced",
+                "duration": "6-7 hours",
+                "resources": ["Framework basics", "Components", "State management"]
+            },
+            {
+                "day": 13,
+                "topic": "Node.js and Server-side JavaScript",
+                "difficulty": "advanced",
+                "duration": "5-6 hours",
+                "resources": ["Node.js basics", "Express", "Server setup"]
+            },
+            {
+                "day": 14,
+                "topic": "Testing and Build Tools",
+                "difficulty": "advanced",
+                "duration": "4-5 hours",
+                "resources": ["Jest", "Webpack", "Build processes"]
+            },
+            {
+                "day": 15,
+                "topic": "Final Project: Full-stack Application",
+                "difficulty": "advanced",
+                "duration": "8-10 hours",
+                "resources": ["Project planning", "Frontend/Backend", "Deployment"]
+            }
+        ],
+        "Ruby": [{
+                "day": 1,
+                "topic": "Ruby Installation, IRB, Hello World",
+                "difficulty": "beginner",
+                "duration": "2-3 hours",
+                "resources": ["Install Ruby", "IRB console", "First program"]
+            },
+            {
+                "day": 2,
+                "topic": "Variables, Data Types, Basic Operations",
+                "difficulty": "beginner",
+                "duration": "3-4 hours",
+                "resources": ["Variables", "Numbers, strings", "Basic operations"]
+            },
+            {
+                "day": 3,
+                "topic": "Control Flow and Conditionals",
+                "difficulty": "beginner",
+                "duration": "3-4 hours",
+                "resources": ["if/else", "case/when", "unless"]
+            },
+            {
+                "day": 4,
+                "topic": "Loops and Iterators",
+                "difficulty": "beginner",
+                "duration": "4-5 hours",
+                "resources": ["for loops", "while loops", "each iterator"]
+            },
+            {
+                "day": 5,
+                "topic": "Methods and Blocks",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["Method definition", "Blocks", "yield keyword"]
+            },
+            {
+                "day": 6,
+                "topic": "Arrays and Hashes",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["Array methods", "Hash operations", "Symbols"]
+            },
+            {
+                "day": 7,
+                "topic": "String Manipulation",
+                "difficulty": "intermediate",
+                "duration": "3-4 hours",
+                "resources": ["String methods", "Interpolation", "Regular expressions"]
+            },
+            {
+                "day": 8,
+                "topic": "Object-Oriented Programming",
+                "difficulty": "intermediate",
+                "duration": "5-6 hours",
+                "resources": ["Classes", "Objects", "Instance variables"]
+            },
+            {
+                "day": 9,
+                "topic": "Inheritance and Modules",
+                "difficulty": "intermediate",
+                "duration": "4-5 hours",
+                "resources": ["Class inheritance", "Modules", "Mixins"]
+            },
+            {
+                "day": 10,
+                "topic": "File I/O and Exception Handling",
+                "difficulty": "intermediate",
+                "duration": "3-4 hours",
+                "resources": ["File operations", "Exception handling", "begin/rescue"]
+            },
+            {
+                "day": 11,
+                "topic": "Gems and Bundler",
+                "difficulty": "advanced",
+                "duration": "3-4 hours",
+                "resources": ["RubyGems", "Bundler", "Gemfile"]
+            },
+            {
+                "day": 12,
+                "topic": "Web Development with Rails",
+                "difficulty": "advanced",
+                "duration": "6-7 hours",
+                "resources": ["Rails basics", "MVC pattern", "Routes"]
+            },
+            {
+                "day": 13,
+                "topic": "Database Integration with ActiveRecord",
+                "difficulty": "advanced",
+                "duration": "5-6 hours",
+                "resources": ["ActiveRecord", "Migrations", "Associations"]
+            },
+            {
+                "day": 14,
+                "topic": "Testing with RSpec",
+                "difficulty": "advanced",
+                "duration": "4-5 hours",
+                "resources": ["RSpec basics", "Test writing", "TDD"]
+            },
+            {
+                "day": 15,
+                "topic": "Final Project: Ruby on Rails Application",
+                "difficulty": "advanced",
+                "duration": "8-10 hours",
+                "resources": ["Project planning", "Implementation", "Deployment"]
+            }
+        ]
+    },
+    "langMeta": [{
+            "lang": "C++",
+            "icon": "<i class=\"fab fa-cuttlefish text-blue-400 text-3xl mb-3\"></i>",
+            "color": "blue"
+        },
+        {
+            "lang": "Java",
+            "icon": "<i class=\"fab fa-java text-yellow-400 text-3xl mb-3\"></i>",
+            "color": "yellow"
+        },
+        {
+            "lang": "Python",
+            "icon": "<i class=\"fab fa-python text-green-400 text-3xl mb-3\"></i>",
+            "color": "green"
+        },
+        {
+            "lang": "JavaScript",
+            "icon": "<i class=\"fab fa-js-square text-yellow-300 text-3xl mb-3\"></i>",
+            "color": "yellow"
+        },
+        {
+            "lang": "Ruby",
+            "icon": "<i class=\"fas fa-gem text-red-400 text-3xl mb-3\"></i>",
+            "color": "red"
+        },
+        {
+            "lang": "Go",
+            "icon": "<i class=\"fab fa-golang text-cyan-400 text-3xl mb-3\"></i>",
+            "color": "cyan"
+        },
+        {
+            "lang": "Rust",
+            "icon": "<i class=\"fab fa-rust text-orange-400 text-3xl mb-3\"></i>",
+            "color": "orange"
+        },
+        {
+            "lang": "Swift",
+            "icon": "<i class=\"fab fa-swift text-orange-400 text-3xl mb-3\"></i>",
+            "color": "orange"
+        }
+    ],
+    "langDetails": {
+        "C++": {
+            "title": "C++",
+            "description": "C++ is a powerful, high-performance language used for system/software development, games, and more. It supports OOP, low-level memory manipulation, and is widely used in industry.",
+            "highlights": [
+                "Great for performance-critical applications",
+                "Widely used in game engines, OS, embedded systems",
+                "Strong support for OOP and generic programming"
+            ],
+            "about": "C++ is a powerful, high-performance language used for system/software development, games, and more. It supports OOP, low-level memory manipulation, and is widely used in industry.",
+            "usecases": ["Game engines", "Operating systems", "Embedded systems", "Performance-critical applications"],
+            "prerequisites": "Basic understanding of programming concepts is helpful but not required."
+        },
+        "Java": {
+            "title": "Java",
+            "description": "Java is a versatile, object-oriented language known for its portability and use in enterprise, Android, and web applications. It runs on the JVM, making it platform-independent.",
+            "highlights": [
+                "Write once, run anywhere (JVM)",
+                "Popular for enterprise and Android development",
+                "Strong ecosystem and libraries"
+            ],
+            "about": "Java is a versatile, object-oriented language known for its portability and use in enterprise, Android, and web applications. It runs on the JVM, making it platform-independent.",
+            "usecases": ["Enterprise applications", "Android apps", "Web servers", "Big data tools"],
+            "prerequisites": "No prior experience needed. Good for beginners."
+        },
+        "Python": {
+            "title": "Python",
+            "description": "Python is a beginner-friendly, high-level language known for its readability and vast ecosystem. It is used in web development, data science, automation, AI, and more.",
+            "highlights": ["Easy to learn and read", "Excellent for data science and AI", "Huge library support"],
+            "about": "Python is a beginner-friendly, high-level language known for its readability and vast ecosystem. It is used in web development, data science, automation, AI, and more.",
+            "usecases": ["Data science", "Web development", "Automation", "AI/ML", "Scripting"],
+            "prerequisites": "No prior experience needed. Very beginner-friendly."
+        },
+        "JavaScript": {
+            "title": "JavaScript",
+            "description": "JavaScript is the language of the web, enabling interactive websites and web apps. It is also used for backend (Node.js), mobile, and desktop apps.",
+            "highlights": [
+                "Essential for web development",
+                "Runs in browsers and on servers (Node.js)",
+                "Large ecosystem and frameworks"
+            ],
+            "about": "JavaScript is the language of the web, enabling interactive websites and web apps. It is also used for backend (Node.js), mobile, and desktop apps.",
+            "usecases": ["Web development", "Frontend frameworks", "Backend (Node.js)", "Mobile apps"],
+            "prerequisites": "No prior experience needed. Basic HTML/CSS helps."
+        },
+        "Ruby": {
+            "title": "Ruby",
+            "description": "Ruby is a dynamic, object-oriented language best known for its elegant syntax and the Ruby on Rails web framework. It is popular for rapid web development.",
+            "highlights": ["Elegant and readable syntax", "Great for web development (Rails)", "Strong community support"],
+            "about": "Ruby is a dynamic, object-oriented language best known for its elegant syntax and the Ruby on Rails web framework. It is popular for rapid web development.",
+            "usecases": ["Web development", "Prototyping", "Automation"],
+            "prerequisites": "No prior experience needed."
+        },
+        "Go": {
+            "title": "Go",
+            "description": "Go (Golang) is a statically typed, compiled language designed for simplicity and concurrency. It is used for scalable backend systems and cloud infrastructure.",
+            "highlights": [
+                "Fast compilation and execution",
+                "Excellent concurrency support",
+                "Ideal for cloud and backend services"
+            ],
+            "about": "Go (Golang) is a statically typed, compiled language designed for simplicity and concurrency. It is used for scalable backend systems and cloud infrastructure.",
+            "usecases": ["Cloud services", "Backend APIs", "DevOps tools"],
+            "prerequisites": "Some programming experience is helpful."
+        },
+        "Rust": {
+            "title": "Rust",
+            "description": "Rust is a modern systems language focused on safety and performance. It prevents memory errors and is used for system-level, web, and embedded development.",
+            "highlights": [
+                "Memory safety without garbage collection",
+                "Zero-cost abstractions",
+                "Growing use in web and embedded systems"
+            ],
+            "about": "Rust is a modern systems language focused on safety and performance. It prevents memory errors and is used for system-level, web, and embedded development.",
+            "usecases": ["System programming", "WebAssembly", "Embedded devices"],
+            "prerequisites": "Some programming experience is helpful."
+        },
+        "Swift": {
+            "title": "Swift",
+            "description": "Swift is Apple's modern language for iOS, macOS, and beyond. It is safe, fast, and expressive, making it the go-to for Apple ecosystem development.",
+            "highlights": ["Modern, safe, and fast", "Best for iOS/macOS apps", "Easy interoperability with Objective-C"],
+            "about": "Swift is Apple's modern language for iOS, macOS, and beyond. It is safe, fast, and expressive, making it the go-to for Apple ecosystem development.",
+            "usecases": ["iOS/macOS apps", "Apple Watch/TV apps"],
+            "prerequisites": "No prior experience needed."
+        }
+    },
+    "aiChatData": [{
+            "keywords": ["hello", "hi", "hey", "greetings"],
+            "response": "Hello! 👋 I'm your AI coding assistant. I'm here to help you with programming questions, explain concepts, debug issues, or guide you through your learning journey. What would you like to know about coding today?"
+        },
+        {
+            "keywords": ["help", "assist", "support"],
+            "response": "I'm here to help! I can assist you with:\n• Programming concepts and syntax\n• Debugging code issues\n• Learning path recommendations\n• Best practices and tips\n• Language comparisons\n• Project ideas\n\nJust ask me anything coding-related!"
+        },
+        {
+            "keywords": ["variable", "variables", "var", "let", "const"],
+            "response": "Variables are containers for storing data values! 📦\n\n*Declaration examples:*\n• JavaScript: let name = 'John'; or const age = 25;\n• Python: name = 'John' or age = 25\n• Java: String name = \"John\"; or int age = 25;\n• C++: string name = \"John\"; or int age = 25;\n\n*Key points:*\n• Use meaningful names (userName, not x)\n• Follow naming conventions (camelCase, snake_case)\n• Choose appropriate data types"
+        },
+        {
+            "keywords": ["loop", "loops", "for", "while", "iteration", "iterate"],
+            "response": "Loops let you repeat code efficiently! 🔄\n\n*Common types:\n• **For loop*: When you know iteration count\n  for(int i = 0; i < 10; i++) { ... }\n• *While loop*: When condition-based\n  while(condition) { ... }\n• *Do-while*: Execute at least once\n  do { ... } while(condition);\n\n*Tips:*\n• Avoid infinite loops\n• Use meaningful counter names\n• Consider array methods like map(), filter() in JS"
+        },
+        {
+            "keywords": ["function", "functions", "method", "methods", "def"],
+            "response": "Functions are reusable code blocks! 🛠\n\n*Examples:\n• **JavaScript*: function greet(name) { return 'Hello ' + name; }\n• *Python*: def greet(name): return f'Hello {name}'\n• *Java*: public String greet(String name) { return \"Hello \" + name; }\n\n*Best practices:*\n• Single responsibility principle\n• Use descriptive names\n• Keep functions small and focused\n• Document complex functions"
+        },
+        {
+            "keywords": ["array", "arrays", "list", "lists", "collection"],
+            "response": "Arrays/lists store multiple values in order! 📋\n\n*Examples:\n• **JavaScript*: let fruits = ['apple', 'banana', 'orange'];\n• *Python*: fruits = ['apple', 'banana', 'orange']\n• *Java*: String[] fruits = {\"apple\", \"banana\", \"orange\"};\n\n*Common operations:*\n• Access: fruits[0] → 'apple'\n• Length: fruits.length or len(fruits)\n• Add: fruits.push('grape') or fruits.append('grape')\n• Loop: for(fruit of fruits) or for fruit in fruits:"
+        },
+        {
+            "keywords": ["object", "objects", "class", "classes", "oop", "object-oriented"],
+            "response": "Objects organize related data and functions! 🏗\n\n*Object example:*\njavascript\nlet person = {\n  name: 'John',\n  age: 30,\n  greet() { return Hi, I'm ${this.name}; }\n};\n\n\n*Class example:*\npython\nclass Person:\n  def _init_(self, name, age):\n    self.name = name\n    self.age = age\n  \n  def greet(self):\n    return f'Hi, Im {self.name}'"
+        },
+        {
+            "keywords": ["string", "strings", "text", "char", "character"],
+            "response": "Strings handle text data! 📝\n\n*Common operations:\n• **Concatenation*: 'Hello' + ' World' or f'Hello {name}'\n• *Length*: str.length or len(str)\n• *Substring*: str.slice(0, 5) or str[0:5]\n• *Case*: str.toLowerCase() or str.lower()\n• *Split*: str.split(' ') or str.split()\n\n*Tips:*\n• Strings are immutable in most languages\n• Use template literals for complex formatting\n• Be careful with encoding (UTF-8)"
+        },
+        {
+            "keywords": ["if", "else", "condition", "conditional", "boolean"],
+            "response": "Conditionals make decisions in code! 🤔\n\n*Basic structure:\n`javascript\nif (condition) {\n  // do something\n} else if (anotherCondition) {\n  // do something else\n} else {\n  // default action\n}\n\n\n\nComparison operators:*\n• == or === (equality)\n• != or !== (inequality)\n• <, >, <=, >=\n• && (AND), || (OR), ! (NOT)\n\n*Tips:*\n• Use === in JavaScript for strict equality\n• Keep conditions readable\n• Consider switch statements for multiple values"
+        },
+        {
+            "keywords": ["debug", "debugging", "error", "errors", "bug", "fix"],
+            "response": "Debugging is finding and fixing code issues! 🐛\n\n*Common techniques:\n• **Console logging*: console.log(), print(), System.out.println()\n• *Breakpoints: Use IDE debugger to pause execution\n• **Error messages: Read them carefully - they often tell you exactly what's wrong\n• **Rubber duck debugging: Explain your code line by line\n\nCommon errors:\n• Syntax errors (typos, missing brackets)\n• Logic errors (wrong algorithm)\n• Runtime errors (null pointer, index out of bounds)\n\nTips:*\n• Start with the first error message\n• Check variable values at different points\n• Use version control to track changes"
+        },
+        {
+            "keywords": ["web", "html", "css", "frontend", "backend", "fullstack"],
+            "response": "Web development builds websites and apps! 🌐\n\n*Frontend (what users see):\n• **HTML: Structure and content\n• **CSS: Styling and layout\n• **JavaScript: Interactivity\n• **Frameworks: React, Vue, Angular\n\nBackend (server-side):\n• **Languages: Node.js, Python, Java, PHP\n• **Databases: MySQL, MongoDB\n• **APIs: REST, GraphQL\n• **Frameworks: Express, Django, Spring\n\nFull-stack: Both frontend and backend\n\nLearning path:\n1. HTML/CSS basics\n2. JavaScript fundamentals\n3. Choose a frontend framework\n4. Learn backend language\n5. Database basics\n6. Build full projects\n\nTips:*\n• Start with static websites\n• Learn responsive design\n• Practice with real projects"
+        },
+        {
+            "keywords": ["algorithm", "algorithms", "complexity", "big o", "performance"],
+            "response": "Algorithms solve problems efficiently! ⚡\n\n*Common algorithms:\n• **Sorting: Bubble sort, Quick sort, Merge sort\n• **Searching: Linear search, Binary search\n• **Graph: BFS, DFS, Dijkstra\n• **Dynamic Programming: Fibonacci, Knapsack\n\nBig O Notation (time complexity):\n• O(1) - Constant time\n• O(log n) - Logarithmic\n• O(n) - Linear\n• O(n²) - Quadratic\n• O(2ⁿ) - Exponential\n\nTips:\n• Understand the problem first\n• Start with brute force, then optimize\n• Practice on coding platforms\n• Learn common patterns\n\nResources:*\n• LeetCode, HackerRank\n• Algorithm visualization tools\n• Computer science courses"
+        },
+        {
+            "keywords": ["mobile", "app", "android", "ios", "react native", "flutter"],
+            "response": "Mobile development creates apps for phones! 📱\n\n*Approaches:\n• **Native: \n  - Android: Java/Kotlin\n  - iOS: Swift/Objective-C\n• **Cross-platform:\n  - React Native (JavaScript)\n  - Flutter (Dart)\n  - Xamarin (C#)\n\nGetting started:\n1. Choose your approach\n2. Set up development environment\n3. Learn platform guidelines\n4. Start with simple apps\n5. Test on real devices\n\nKey concepts:\n• UI components\n• Navigation\n• State management\n• API integration\n• App store deployment\n\nTips:*\n• Follow platform design guidelines\n• Test on multiple devices\n• Consider performance\n• Plan for different screen sizes"
+        },
+        {
+            "keywords": ["career", "job", "interview", "resume", "portfolio"],
+            "response": "Building a programming career! 💼\n\n*Building your portfolio:\n• Create diverse projects\n• Use GitHub to showcase code\n• Deploy projects online\n• Write clear documentation\n• Contribute to open source\n\nJob preparation:\n• Practice coding interviews\n• Study data structures & algorithms\n• Build a strong LinkedIn profile\n• Network with other developers\n• Keep learning new technologies\n\nInterview tips:\n• Explain your thought process\n• Ask clarifying questions\n• Practice whiteboard coding\n• Prepare behavioral questions\n• Show enthusiasm for learning\n\nSkills employers want:\n• Problem-solving ability\n• Communication skills\n• Teamwork\n• Continuous learning\n• Attention to detail\n\nRemember*: Everyone's journey is different. Focus on consistent improvement!"
+        },
+        {
+            "keywords": ["framework", "frameworks", "library", "libraries", "react", "angular", "vue"],
+            "response": "Frameworks speed up development! 🚀\n\n*Popular frameworks:\n• **Frontend: React, Angular, Vue.js\n• **Backend: Express.js, Django, Spring Boot\n• **Mobile: React Native, Flutter\n• **Desktop: Electron, Qt\n\nFramework vs Library:\n• **Framework: Controls your app structure (Angular)\n• **Library: You control when to use it (React)\n\nBenefits:\n• Faster development\n• Best practices built-in\n• Large community support\n• Tested and reliable code\n\nChoosing a framework:\n• Consider project requirements\n• Team expertise\n• Community support\n• Documentation quality\n• Performance needs\n\nLearning tip*: Master the fundamentals first, then learn frameworks!"
+        },
+        {
+            "keywords": ["security", "secure", "encryption", "authentication", "password"],
+            "response": "Security protects your applications! 🔒\n\n*Common security practices:\n• **Input validation: Never trust user input\n• **Authentication: Verify user identity\n• **Authorization: Control access to resources\n• **HTTPS: Encrypt data in transit\n• **Password hashing: Never store plain passwords\n\nCommon vulnerabilities:\n• SQL injection\n• Cross-site scripting (XSS)\n• Cross-site request forgery (CSRF)\n• Insecure direct object references\n• Security misconfiguration\n\nBest practices:\n• Keep dependencies updated\n• Use security headers\n• Implement rate limiting\n• Log security events\n• Regular security audits\n\nPassword security:\n• Use strong, unique passwords\n• Implement 2FA when possible\n• Hash passwords with salt\n• Use secure password reset flows\n\nRemember*: Security is not optional - build it in from the start!"
+        },
+        {
+            "keywords": ["testing", "test", "unit test", "integration", "tdd"],
+            "response": "Testing ensures code quality! 🧪\n\n*Types of testing:\n• **Unit tests: Test individual functions\n• **Integration tests: Test component interactions\n• **End-to-end tests: Test complete user flows\n• **Performance tests: Test speed and scalability\n\nTesting frameworks:\n• **JavaScript: Jest, Mocha, Cypress\n• **Python: pytest, unittest\n• **Java: JUnit, TestNG\n• **C++: Google Test\n\nTDD (Test-Driven Development):\n1. Write a failing test\n2. Write minimal code to pass\n3. Refactor and improve\n4. Repeat\n\nBenefits:\n• Catch bugs early\n• Improve code design\n• Enable safe refactoring\n• Document expected behavior\n\nBest practices:*\n• Write clear test names\n• Test edge cases\n• Keep tests independent\n• Aim for good coverage\n• Run tests automatically"
+        },
+        {
+            "keywords": ["performance", "optimize", "optimization", "speed", "memory"],
+            "response": "Performance optimization makes apps faster! ⚡\n\n*Common bottlenecks:\n• Inefficient algorithms\n• Database queries\n• Network requests\n• Memory leaks\n• Large file sizes\n\nOptimization strategies:\n• **Algorithm optimization: Use better algorithms\n• **Caching: Store frequently used data\n• **Database indexing: Speed up queries\n• **Code splitting: Load only what's needed\n• **Image optimization: Compress and resize\n\nProfiling tools:\n• Browser DevTools\n• Language-specific profilers\n• Performance monitoring tools\n• Load testing tools\n\nBest practices:\n• Measure before optimizing\n• Focus on biggest bottlenecks\n• Consider user experience\n• Monitor in production\n• Balance optimization with maintainability\n\nRemember*: Premature optimization is the root of all evil - measure first!"
+        },
+        {
+            "keywords": ["thank", "thanks", "appreciate", "helpful"],
+            "response": "You're very welcome! 😊 I'm glad I could help you with your coding questions. Remember, learning to code is a journey - keep practicing, stay curious, and don't hesitate to ask questions. Good luck with your programming adventures! 🚀"
+        },
+        {
+            "keywords": ["bye", "goodbye", "see you", "later"],
+            "response": "Goodbye! 👋 Happy coding, and remember - every expert was once a beginner. Keep practicing and building awesome things! Feel free to come back anytime you need help. See you later! 🚀"
+        }
+    ]
+}
